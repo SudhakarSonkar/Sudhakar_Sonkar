@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sudhakar Sonkar aka Sud's
-#### I'm trying to find out opportunities and learning new technologies! Generator's creator
-![I'm trying to find out opportunities and learning new technologies! Generator's creator](https://sudhakarsonkar.github.io/github-profile-readme-generator/images/banner.png)
+#### I'm trying to find out opportunities and learning new technologies!
+(https://sudhakarsonkar.github.io/github-profile-readme-generator/images/banner.png)
 
 I’m a Juniors year student of B.Tech Electronics & Communication Engineering at MMMUT Gorakhpur.
 
